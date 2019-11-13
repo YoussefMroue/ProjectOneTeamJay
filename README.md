@@ -1,3 +1,3 @@
-### ProjectOneTeamJay
+# ProjectOneTeamJay
 ## Team Members:
-# Alexandra Oricchio, Jessica Kim, Youssef Mroue
+### Alexandra Oricchio, Jessica Kim, Youssef Mroue
