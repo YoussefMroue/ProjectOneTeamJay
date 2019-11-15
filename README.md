@@ -3,7 +3,7 @@
 ### Alexandra Oricchio, Jessica Kim, Youssef Mroue
 
 ## Project Description/Outline
-Is gun problem really a gun problem. What do communities want about gun control. community solution to violence based on response to incidents, trends in communities in cities on violence type and how that relates to other causes beyond having a gun. 
+Understanding public response to gun violence in the U.S. Are gun laws the solution the communtiy wants?
 
 ## Research Questions to Answer
 Which states have the top percentage of incidents per capita? 
