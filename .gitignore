@@ -1,3 +1,4 @@
+.DS_Store
 Data/raw_data
 Data/notebooks/census_api_key.py
 
