@@ -49,7 +49,8 @@ How our project repository is structured:
       
    * ___clean_data.csv:___ csv output from "Cleanup1.ipynb" notebook. This csv file is our cleaned dataset and includes the population data pulled from US Census. 
       
-#### __Notebooks folder:__ We split our data exploration into three main topics and worked in individual notebooks to conduct further analysis on these three topics. 
+#### __Notebooks folder:__ 
+We split our data exploration into three main topics and worked in individual notebooks to conduct further analysis on these three topics. 
 
  * ___allie.ipynb:___ Allie’s notebook explores the outcome of gun violence incidents in the United States. More specifically, Allie explores the top ten states based on the total number killed and total number injured by a gun related event. Allie’s notebook also explores these results on a per capita basis to examine how population effects these results. 
      
