@@ -31,3 +31,8 @@ What was the most frequent incident type per state? by year?
  * In regards to incident type, one gun violence incident can be counted as multiple incident types. For example, a single incident involving drug use and suicide would be counted twice as two different incident types.
  
  ## Project Structure
+How our project repository is structured:
+* __Data folder:__
+  * __raw_data folder:__ this folder contains our raw data. We added this folder to our gitignore as the raw data set was too large to upload to github. 
+  * __notebooks folder:__
+    * __Census_Extract.ipynb:__ Jupyter Notebook using the python wrapper for the United States Census Bureau's API to pull the 5 year average population per state and exporting data into a csv file. 
