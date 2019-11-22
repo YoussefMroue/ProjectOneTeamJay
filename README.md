@@ -33,7 +33,7 @@ What was the most frequent incident type per state? by year?
  ## Project Structure
 How our project repository is structured:
 
-* __Data folder:__
+### __Data folder:__
 
   * __raw_data folder:__ this folder contains our raw data. We added this folder to our gitignore as the raw data set was too large to upload to github. 
   
