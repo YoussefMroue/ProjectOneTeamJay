@@ -1,5 +1,5 @@
 # ProjectOneTeamJay
-## Team Members:
+### Team Members:
 ### Alexandra Oricchio, Jessica Kim, Youssef Mroue
 
 ## Project Description/Outline
@@ -13,7 +13,7 @@ How does the average number of people injured per incident vary per state?
 What was the most frequent incident type per state? by year?
   
 ## Data Sets to be Used
-* [Gun Violence Data] (www.kaggle.com/jameslko/gun-violence-data)
+* [Gun Violence Data] (https://www.kaggle.com/jameslko/gun-violence-data)
 * [GMaps API's](developers.google.com/apis-explorer)
 * [Government](census.gov/data.html)
 * [Wrapper for the United States Census Bureau's API] (https://github.com/datamade/census)
