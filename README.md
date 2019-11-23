@@ -13,10 +13,10 @@ Outcomes: Which states have the highest number of killed and injured due to gun 
 What are the top types of gun violence incidents in the US??
   
 ## Data Sets to be Used
-* [Gun Violence Data] (https://www.kaggle.com/jameslko/gun-violence-data)
+* [Gun Violence Data](https://www.kaggle.com/jameslko/gun-violence-data)
 * [GMaps API's](https://developers.google.com/apis-explorer)
 * [Government](https://www.census.gov/data.html)
-* [Wrapper for the United States Census Bureau's API] (https://github.com/datamade/census)
+* [Wrapper for the United States Census Bureau's API](https://github.com/datamade/census)
 
 ## Parameters and Limitations of our Data Sets
 * Gun Violence Data:
