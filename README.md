@@ -1,4 +1,5 @@
-# ProjectOneTeamJay
+# Gun Violence in the United States
+### ProjectOneTeamJay
 ### Team Members:
 ### Alexandra Oricchio, Jessica Kim, Youssef Mroue
 
@@ -10,7 +11,7 @@ What are the states with the highest number of incidents?
 
 Outcomes: Which states have the highest number of killed and injured due to gun related violence?
 
-What are the top types of gun violence incidents in the US?
+What are the top types of gun violence incidents in the U.S.?
   
 ## Data Sets to be Used
 * [Gun Violence Data](https://www.kaggle.com/jameslko/gun-violence-data)
@@ -21,13 +22,13 @@ What are the top types of gun violence incidents in the US?
 ## Parameters and Limitations of our Data Sets
 * Gun Violence Data:
   * Includes data for gun violence incidents in the United States that occurred between 2013 and 2018.
-  * Includes data for all 50 states and includes District of Columbia as its own state
+  * Includes data for all 50 states and includes District of Columbia as its own state.
   * What qualifies as a gun violence incidet? A gun violence incident includes, but is not limited to, armed robberies, pistol whipping, suicide, incidents resulting in no injuries, officer involved incidents, drug involved incidents, etc. 
 * Census Data:
   * Includes the 5 year average population per state (2011 - 2016)
   
  ## Important to Note
- * Per capita calculations are based on per 10,000 (Equation = incidents/(population/10000))
+ * Per capita calculations are based on per 10,000 (Equation = x/(population/10000), for x values equal to total number of incidents, total number killed and total number injured)
  * In regards to incident type, one gun violence incident can be counted as multiple incident types. For example, a single incident involving drug use and suicide would be counted twice as two different incident types.
  
  ## Project Structure
@@ -35,7 +36,7 @@ How our project repository is structured:
 
 #### __Data folder:__
 
-* __raw_data folder:__ this folder contains our raw data. We added this folder to our gitignore as the raw data set was too large to upload to github. 
+* __raw_data folder:__ this folder contains our raw data. We added this folder to our gitignore as the raw data set is too large to upload to github. 
   
 * __notebooks folder:__
   
@@ -61,7 +62,7 @@ We split our data exploration into three main topics and worked in individual no
  * __output folder:__ This folder contains png files for any visualiztions created in the notebooks above as well as csv files. 
   
  #### __Reports folder:__ 
- This folder contains our final consolidated notebook, the respective visual outputs, our final presentation and our project write-up. 
+ This folder contains our projects final reports. It includes a consolidated notebook of our findings, the respective visual outputs, our final presentation and our project write-up. 
  
 * ___Final_analysis.ipynb___
     
