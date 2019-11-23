@@ -2,6 +2,7 @@
 Data/raw_data
 Data/notebooks/census_api_key.py
 Notebooks/google_maps_key.py
+Reports/google_maps_key.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
