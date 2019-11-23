@@ -68,3 +68,4 @@ We split our data exploration into three main topics and worked in individual no
     
 * ___ProjectJay_GunViolence.docx___
   
+* __output folder:__ This folder contains png files for any visualiztions created in our final analysis notebook. 
