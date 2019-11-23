@@ -10,7 +10,7 @@ What are the states with the highest number of incidents?
 
 Outcomes: Which states have the highest number of killed and injured due to gun related violence?
 
-What are the top types of gun violence incidents in the US??
+What are the top types of gun violence incidents in the US?
   
 ## Data Sets to be Used
 * [Gun Violence Data](https://www.kaggle.com/jameslko/gun-violence-data)
