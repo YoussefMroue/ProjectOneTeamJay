@@ -60,12 +60,13 @@ We split our data exploration into three main topics and worked in individual no
      
  * __output folder:__ This folder contains png files for any visualiztions created in the notebooks above as well as csv files. 
   
- #### __Reports folder:__
+ #### __Reports folder:__ 
+ This folder contains our final consolidated notebook, the respective visual outputs, our final presentation and our project write-up. 
  
 * ___Final_analysis.ipynb___
     
-* ___ProjectJay.ppt___
+* ___GunViolence.ppt___
     
-* ___ProjectJay_GunViolence.docx___
+* ___GunViolence_ProjectOne.docx___
   
 * __output folder:__ This folder contains png files for any visualiztions created in our final analysis notebook. 
