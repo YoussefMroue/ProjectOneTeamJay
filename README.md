@@ -58,7 +58,7 @@ We split our data exploration into three main topics and worked in individual no
      
  * ___youssef.ipynb:___ Youssef’s notebook focuses on the top types of gun violence in the United States. In order to analyze this data, Youssef first conducted a text analysis of our raw data. Youssef’s analysis resulted in a clean and functional data set depicting the types of gun violence incidents occurring in the United States. Youssef then took this data set and analyzed the top five types of gun violence incidents and created gmap visuals to show where these incidents appear to be occurring most throughout the United States. 
      
- * __output folder:__ This folder contains png files for any visualiztions created in the notebooks above. 
+ * __output folder:__ This folder contains png files for any visualiztions created in the notebooks above as well as csv files. 
   
  #### __Reports folder:__
  
