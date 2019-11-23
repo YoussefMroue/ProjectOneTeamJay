@@ -65,7 +65,7 @@ We split our data exploration into three main topics and worked in individual no
  
 * ___Final_analysis.ipynb___
     
-* ___GunViolence.ppt___
+* ___Gun Violence in the USA.ppt___
     
 * ___GunViolence_ProjectOne.docx___
   
