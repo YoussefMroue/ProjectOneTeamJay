@@ -27,7 +27,7 @@ What are the top types of gun violence incidents in the US??
   * Includes the 5 year average population per state (2011 - 2016)
   
  ## Important to Note
- * Per capita calculations are based on per 10,000
+ * Per capita calculations are based on per 10,000 (Equation = incidents/(population/10000))
  * In regards to incident type, one gun violence incident can be counted as multiple incident types. For example, a single incident involving drug use and suicide would be counted twice as two different incident types.
  
  ## Project Structure
