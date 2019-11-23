@@ -22,7 +22,7 @@ What was the most frequent incident type per state? by year?
 * Gun Violence Data:
   * Includes data for gun violence incidents in the United States that occurred between 2013 and 2018.
   * Includes data for all 50 states and includes District of Columbia as its own state
-  * What qualifies as a gun violence incidet? A gun violence incidents includes, but is not limited to, armed robberies, pistol whipping, suicide...
+  * What qualifies as a gun violence incidet? A gun violence incident includes, but is not limited to, armed robberies, pistol whipping, suicide...
 * Census Data:
   * Includes the 5 year average population per state (2011 - 2016)
   
