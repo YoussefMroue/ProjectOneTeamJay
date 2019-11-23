@@ -6,23 +6,23 @@
 Understanding gun violence in the U.S. between 2013 and 2018.
 
 ## Research Questions to Answer
-Which states have the top percentage of incidents per capita?
+What are the states with the highest number of incidents? 
 
-How does the average number of people injured per incident vary per state?
+Outcomes: Which states have the highest number of killed and injured due to gun related violence?
 
-What was the most frequent incident type per state? by year?
+What are the top types of gun violence incidents in the US??
   
 ## Data Sets to be Used
 * [Gun Violence Data] (https://www.kaggle.com/jameslko/gun-violence-data)
-* [GMaps API's](developers.google.com/apis-explorer)
-* [Government](census.gov/data.html)
+* [GMaps API's](https://developers.google.com/apis-explorer)
+* [Government](https://www.census.gov/data.html)
 * [Wrapper for the United States Census Bureau's API] (https://github.com/datamade/census)
 
 ## Parameters and Limitations of our Data Sets
 * Gun Violence Data:
   * Includes data for gun violence incidents in the United States that occurred between 2013 and 2018.
   * Includes data for all 50 states and includes District of Columbia as its own state
-  * What qualifies as a gun violence incidet? A gun violence incident includes, but is not limited to, armed robberies, pistol whipping, suicide...
+  * What qualifies as a gun violence incidet? A gun violence incident includes, but is not limited to, armed robberies, pistol whipping, suicide, incidents resulting in no injuries, officer involved incidents, drug involved incidents, etc. 
 * Census Data:
   * Includes the 5 year average population per state (2011 - 2016)
   
